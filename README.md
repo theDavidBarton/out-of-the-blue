@@ -30,3 +30,58 @@ Famous songs with different versions.
   There's more to the picture than meets the eye
   Hey, hey, my, my
 ```
+---
+## Don't Cry / Don't Cry (Alternate Lyrics)
+  _by Guns n' Roses_
+
+```diff
+- Talk to me softly, there's something in your eyes
++ If we could see tomorrow, what of your plans?
+- Don't hang your head in sorrow and please don't cry
++ No one can live in sorrow, ask all your friends
+- I know how you feel inside, I've, I've been there before
++ Times that you took in stride, they're back in demand
+- Something is changing inside you and don't you know?
++ I was the one who was washing blood off your hands
+
+  Don't you cry tonight, I still love you, baby
+  And don't you cry tonight
+  Don't you cry tonight, there's a heaven above you, baby
+  And don't you cry tonight
+
+- Give me a whisper and give me a sigh
++ I know the things you wanted, they're not what you have
+- Give me a kiss before you tell me goodbye
++ With all the people talking, it's driving you mad
+- Don't you take it so hard now and please don't take it so bad
++ If I was standing by you, how would you feel
+- I'll still be thinking of you and the times we had, baby
++ Knowing your love's decided, and all love is real? (baby)
+
+  And don't you cry tonight
+  Don't you cry tonight
+  Don't you cry tonight, there's a heaven above you, baby
+  And don't you cry tonight
+
+- And please remember that I never lied, oh
++ I thought I could live in your world, as years all went by,
+- And please remember how I felt inside now, honey
++ with all the voices I've heard, something has died
+- You gotta make it your own way but you'll be alright now, sugar
++ And when you're in need of someone, my heart won't deny you
+- You'll feel better tomorrow, come the morning light now, baby
++ So many seem so lonely with no one left to cry to, baby
+
+  Don't you cry tonight
+  I still love you, baby
+  Don't you cry tonight
+  Don't you cry tonight
+  There's a heaven above you baby
+  And don't you cry tonight
+  Don't you cry tonight
+  I still love you, baby
+  Don't you cry tonight
+  Don't you cry tonight
+  There's a heaven above you baby
+  And don't you cry tonight
+```
