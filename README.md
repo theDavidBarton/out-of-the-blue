@@ -146,3 +146,74 @@ _by The Beatles_
   Alright, alright
   Alright, alright
 ```
+
+## Razorblades and Cupcakes / Razorblades
+_by Story of the Year_
+
+```diff
+  Yeah, yeah
+  Walking example of you
+  Wait for the silence
+  Talking backwards to you
+  It meant nothing to me
++ Watching the world fall on you
++ I'm keeping my eyes closed
++ Now I can see what this means to you
++ It meant nothing to me
+
+- When the sun goes down
+- I'll remember this
+- And every word you said
+- We've got to find our way back home
++ This wasted so many nights and again
++ I've wasted so much time on a friend
++ Too young, too proud to understand
++ So this is the end
+
+  Perfect timing for you
+  You'll run 'til your legs break
+- Here's my reminder of you
++ So here's my reminder of you
+  It meant nothing to me
+
+- When the sun goes down
+- I'll remember this
+- And every word you said
+- We've got to find our way back home
++ This wasted so many nights and again
++ I've wasted so much time on a friend
++ Too young, too proud to understand
++ So this is the end, go!
+
++ We should've seen this coming
++ We should've seen this
++ Yeah! Yeah!
+
+- Yeah wipe you eyes
+- 'Cause it can't rain everyday
+- It can't rain everyday, go!
+
+- And I'll drive till there's nowhere for me to go
+- No stop signs hold me back
+- Find what this is worth to you
+- 'Cause I'll be holding on forever, forever!
+
+- When the sun goes down
+- I'll remember this
+- And every word you said
+- We've got to find our way back home
++ This wasted so many nights and again
++ I've wasted so much time on a friend
++ Too young, too proud to understand
++ So this is the end
+
+- When the rain stops falling, we'll start again
+- And forget the words you said
+- 'Cause I'll be holding on forever
++ This wasted so many nights and again
++ I've wasted so much time on a friend
++ Too young, too proud to understand
++ So this is the end
+- Yeah forever! Go!
++ Yeah! This is the end!
+```
