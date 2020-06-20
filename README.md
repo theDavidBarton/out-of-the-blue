@@ -1,8 +1,8 @@
-# out-of-the-blue
+# Out Of The Blue
 Famous songs with different versions.
 
 ## My My, Hey Hey (Out Of The Blue) / Hey Hey, My My (Into The Black)
-  _by Neil Young_
+ _by Neil Young_
 
 ```diff
 - Hey, hey, my, my
@@ -30,7 +30,7 @@ Famous songs with different versions.
   There's more to the picture than meets the eye
   Hey, hey, my, my
 ```
----
+
 ## Don't Cry / Don't Cry (Alternate Lyrics)
   _by Guns n' Roses_
 
